@@ -6,6 +6,7 @@ import java.util.Arrays;
 
 public class imagination {
     public static void main(String[] args) {
+        //
         //int[] inhabitants = {3, 6, 0, 4, 3, 2, 7, 0};//1
         //int[] inhabitants = {0, 7, 0, 24, 12, 0, 15, 7};//2
        //int[] inhabitants = {10, 5, 0, 0, 4, 7, 6, 2};//3
