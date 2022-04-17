@@ -24,7 +24,7 @@ public class imagination {
     }
     private static boolean checkIfMoreDays(int[] inhabitants, ArrayList<Integer> day) {
         int sum = getSum( day );
-        if (sum != 0) {
+        if (sum  != 0) {
             moveDayToInhibitants( inhabitants, day );
             return true;
         }
