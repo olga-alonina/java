@@ -1,0 +1,100 @@
+Day 58 Exceptions
+Day 58 Exceptions
+
+day58_exceptions
+____________________________________________________________
+
+Exceptions hierarchy
+throws vs throw
+____________________________________________________________
+
+day58_exceptions
+
+Exceptions
+
+	issue that stops the normal flow of execution
+
+Error
+
+	problem not related to code
+
+Throwable is the parent of Error and Exception classes
+
+Exception class:
+
+	Parent of all exception types
+
+	-> direct child classes are checked exceptions:
+		 exceptions that must be handled in compile time
+
+RunTimeException class:
+
+	child of Exception
+
+	-> child classes of the RunTimeException are unchecked, so they occur during runtime
+
+	Example of IndexOutOfBoundsException
+
+           possible references for IndexOutOfBoundsException
+
+             IndexOutOfBoundsException obj =  new IndexOutOfBoundsException();
+
+             RunTimeException obj =  new IndexOutOfBoundsException();
+
+             Exception obj =  new IndexOutOfBoundsException();
+
+Rule for multiple catch blocks:
+
+	when you define multiple catch blocks the Exceptions should be the most specific in the beginning and become more general as they go down
+
+	ex:
+        try{
+
+        } catch (IndexOutOfBoundsException e){
+
+        } catch (RuntimeException e){
+
+        } catch (Exception e){
+
+        }
+
+throws
+
+	added to a method signature to allow the program to compile
+
+	-> doesn't handle the exception but allow compiling. If the exception condition is met the exception will still be thrown and the program will stop
+
+	-> useful to ignore checked exceptions
+
+throw
+
+	how exceptions are thrown(caused)
+
+	throw an exception object
+
+	syntax:
+
+		throw new ExceptionType();
+
+difference between try/catch vs throws
+
+	try/catch -> handle exceptions. Define the set of statements that should be executed if a specific exceptions happens
+
+	throws: allowing the program to compile and if exception happens the program still stops
+
+day58_exceptions.bank
+
+Custom Exceptions
+	-> we did for practice to understand how exceptions work
+
+	we made a class
+
+		inherited the RuntimeException class we made an unchecked exception
+
+		inherited the Exception class we made a checked exception
+
+	call the super constructors to assign the messages
+
+	when we created/throw a checked exception, as the person creating the
+	 class/object/file, I did not want to handle it, I wanted
+	 the users to handle the exception, so we used throws to ignore the exception, allowing the code compile

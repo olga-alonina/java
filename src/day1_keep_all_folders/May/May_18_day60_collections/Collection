@@ -1,0 +1,123 @@
+Collection Framework
+    Collection
+    Stack
+    Queue
+____________________________________________________________
+
+Collection Framework: a group of interfaces and class that define how data structures will handle data
+
+    -> only work with objects, not primitive types
+
+main interfaces:
+
+    collection: the parent of all other collections types. this interface defines the most common action(methods) that a collection should have
+
+        Ex: add, remove, size
+
+    list: ordered(index), allows duplicates
+
+    set: unordered(no index), does not allow duplicates
+
+Classes that implement the List interface:
+
+    ArrayList: data structure that uses arrays internally. Resizable array
+
+        -> useful for storing/reading information
+
+        -> faster than Vector, because ArrayList is not synchronized
+
+    LinkedList: data structure that uses nodes internally
+
+        -> Node: an object that has the element, the reference of the previous node, and the reference of the next node
+
+            ex:     node{
+                        element
+                        previous
+                        next
+                    }
+
+        -> useful for manipulating data
+
+    Vector: legacy version of ArrayList, it uses array internally, but its synchronized
+
+        synchronized(thread safe): multiple threads cannot access at the same. if there is multiple threads they will go one a time
+
+            ex: atm -> you want to access to atm one a time, so it is thread safe
+                if the atm was not thread safe then multiple people(threads) can interact at the same time -> that could cause problems like over drafting
+
+        - useful for thread safety
+
+    Stack: data structure that following last in, first out
+        see below for details about the Stack
+
+Classes that implement the Set interface:
+
+    HashSet: data structure that uses HashMap internally. Hashing algorithm, which means its handles data fast and efficiently
+
+    LinkedHashSet: data structure that has hash table and linked list implementation. Insertion order is maintained
+
+    TreeSet: implements the SortedSet interface. Elements are stored in their natural order(sorted)
+        -> cannot have null element
+
+What is the advantage/purpose of the collection framework
+
+    these data structures all define different ways to handle and use data
+    there is different implementation/algorithms to solve a problem
+
+    -> performance of an action:
+        different collections can have different performance for different actions:
+            ex: adding, removing, editing, searching
+
+What is the advantage of the polymorphic references
+
+    polymorphic references, especially the interface reference of the objects allows flexibly with methods, return types, and constructors
+
+    example: constructor of the collection type objects have the parameter of collection, it means any object that has is a relation with the collection interface can be used to call that constructor
+
+        -> it means you can make an ArrayList from a HashSet object
+            or a TreeSet from an ArrayList
+
+    ex of method:
+
+        public static List<> method()
+
+            -> this method can return any object that implements the List
+
+        public static void method(List<>)
+
+            -> this method can be called by given an argument of any object that implements the List
+
+Stack
+
+    LIFO: Last in, First out
+
+        ex:
+
+            Book1
+
+            add another book:
+
+            Book2
+            Book1
+
+            add another book:
+
+            Book3
+            Book2
+            Book1
+
+            so right now if you wanted to remove a book from the stack it would be Book3 because it was the most recent added to the stack
+
+    methods for LIFO:
+
+        push(): add the element to the top of the stack
+        peek(): return the element at the top of the stack. does not remove it, only lets you see what there
+        pop(): remove the element at the top of the stack, and returns it
+
+
+    difference between push vs add:
+        functionality is the same, add elements to the stack
+
+        add method (from collection interface) returns boolean
+
+        push method (from stack) returns the object it added

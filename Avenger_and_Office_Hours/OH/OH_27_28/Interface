@@ -1,0 +1,92 @@
+= Interface =
+
+			-  Provide set of abstract methods that subclasses need
+			- It used for specifying behaviour for subclass / subclasses
+
+		- Access modifiers
+		    - Only PUBLIC
+
+        - Methods
+            -By default any method created in an interface is < public abstract >
+            -Interfaces can have static ,default , abstract methods
+
+        - Variables
+            - all fields in an interface are treated as final and static .
+            - Initiliaze them in same statement
+
+		- Implementing Interface -
+
+			- A class can extends another class and implements interface(s) at the same time.
+			- If a class both extend a class and implement an interface, extends should come first then implements keyword.
+
+
+		-  Implementing Multiple Interfaces
+
+			- Class can extend only one superclass, but java allows a class to implement multiple interfaces.
+			- When a class implements multiple interfaces, it must provide the methods specified by all of them
+
+		-  Interfaces can have:
+
+					• Constant variables
+					    - Since they are final and static as default , name it All UPPERCASE
+					• Abstract methods
+					    - There is no implementation / no body.
+					• Default Methods
+					    - Can be overriden
+					• Static Methods
+					    - Accessible with Interface.methodName();
+					    - Not inherited
+
+				• Interfaces can not have:
+
+                        • Constructor
+                        • Blocks
+                        • Instance variables or methods
+
+
+Abstract Class Vs Interface
+
+- BOTH
+              - used for achieving abstraction
+			  - meant to be inherited
+		      - can not create objects
+			  - can not be final
+
+- Goals
+    - We use abstract classes for setting foundation for sub classes.
+    - Interfaces are used to add a feature to classes by providing abstract methods.
+
+- Child Classes
+    - Class can extends ONE abstract class    -- Multiple inheritance is not allowed with classes
+    - Class can implement MULTIPLE interfaces -- Multiple inheritance is  allowed with interfaces
+
+-Methods
+   	- Abstract classes can have abstract and non-abstract methods
+	- Interfaces can have abstract,default,static methods
+
+- Variables:
+	- Abstract classes can have instance, static, and final variables
+	- Interfaces can only have "public static final" variables
+
+- Constructor
+	- Abstract classses can have Constructors
+	- Interfaces can not have Constructors
+
+- Inheritance
+	- Abstract classes can extend a single abstract or non-abstract class and implement interfaces
+	- Interfaces can extend multiple interfaces  with EXTENDS keyword
+	- Interfaces can not extend classes
+
+
+extends vs implements: both are used for inheritance
+
+		extends:
+				class extends class
+				interface extends interface(s)
+
+		implements:
+				class implements interface(s)
+
+
+		extends & implements:
+				extends first then implements

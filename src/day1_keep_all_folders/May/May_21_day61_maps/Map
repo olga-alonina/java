@@ -1,0 +1,131 @@
+Day 61 Maps
+
+day61_maps
+____________________________________________________________
+
+Collection Framework
+    Queue
+    Iterator
+
+Maps
+____________________________________________________________
+
+Queue:
+    child of Collection interface
+
+    interface that follows FIFO: first in, first out
+
+    oracle definition: Queue typically, but do not necessarily, order the elements in a FIFO manner
+
+    PriorityQueue:
+        class the implements the Queue interface
+            -> even thought it implements Queue the order of the elements is not based on insertion order
+
+            internally is working with some priority, by default it is in ascending order
+
+    ArrayDeque:
+        class that implements Deque
+
+        usually be faster than stack using LIFO, and faster than a LinkedList used for as a queue
+
+    Deque: interface that defines methods that allows access to the beginning and end of the collection
+        child of Queue interface
+
+        -> LinkedList also implements the Deque
+
+        defines methods like: addFirst, offerLast, peekFirst, etc
+
+    Methods of Queue:
+
+        add()
+        remove()
+        element(): checks what is at the top of the queue
+
+            -> these methods face an issue there will be an exception thrown
+
+        offer() --> same as add()
+        poll()  --> same as remove()
+        peek()  --> same as element()
+
+            -> these methods face an issue they will return null
+
+        -> most likely if you want to use FIFO function these methods are useful
+
+____________________________________________________________
+
+Iterable interface
+
+    parent of the Collection interface
+
+    any class that implements the Collection interface can use the iterator, which means it can use a for loop and create its own iterator object
+
+    Iterator object is a way to manually iterate through the elements of the collection one at a time
+
+    method of iterator:
+
+        next(): moves to the next element, and returns it
+        hasNext(): check if there is an element after it, returns boolean
+        remove(): remove the current element from the collection
+
+    syntax to create the object:
+
+        Iterator<dataType> name = collection.iterator();
+
+____________________________________________________________
+
+Map
+
+    interface that maintains the key/value elements
+
+    does not inherit the Collection interface
+
+    Entry: key/value pair
+
+        keys must be unique
+        values can be duplicate
+
+Class that implement the Map interface
+
+    HashMap: the order is not guaranteed
+        null key is allowed
+
+    LinkedHashMap: insertion order is maintained
+        null key is allowed
+
+    TreeMap: implements SortedMap. The entries are sorted by the keys in natural order
+        null key is not allowed
+
+    HashTable: the order is not guaranteed
+        synchronized (thread safe)
+        does not allow null keys or values
+
+    Note:
+        insertion order: the order the elements are added to the collection
+
+        natural order: entries are added and sorted based on the keys
+            ascii, small -> large
+
+syntax of HashMap
+
+    Map< key, value > name = new HashMap<>();
+
+methods
+
+    put( k , v):
+        add the entry (key/value) to the map
+
+        -> if the key exist the value will be changed/updated
+
+    get( k ):
+        return the value that is related to the given key argument
+
+        Q: What if we get a key that doesn't exist --> null
+
+    remove( k )
+        remove the entire entry (both key and value) based on the given key argument
+
+    containsKey( k )
+        return boolean. checks if the map has the given key argument
+
+    containsValue( v )
+        return boolean. checks if the map has the given value argument

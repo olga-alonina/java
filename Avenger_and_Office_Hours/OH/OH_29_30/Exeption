@@ -1,0 +1,58 @@
+
+
+1- CHECKED VS UNCHECKED EXCEPTIONS
+
+    CHECKED EXCEPTIONS : Unwanted event
+
+         - It occurs in Compiler Time
+         - We MUST handle it
+         - Easy To Catch
+         - Solutions
+               - Try Catch
+               - Throws
+
+    UNCHECKED EXCEPTIONS : Unexpected event
+
+         -  It occurs in Runtime (All unchecked exceptions are Runtime Exception)
+         -  Code will compile even if we handle or NOT
+         -  not easy to catch
+         -  Solutions
+                - TRY CATCH
+
+
+2-TRY CATCH
+
+    - It can be used for UNCHECKED and CHECKED
+    - It will handle exception permanently
+
+    MULTIPLE TRY CATCH
+    - TRY block will be capable of throw one or more exception
+    - if we dont type of exception we need to use it
+
+    RULE : PARENT exception type can not be placed before CHILD
+
+3-THROWS
+
+  - used for ONLY CHECKED EXCEPTIONS
+  - it informs the compiler that methods will throw one or more exceptions
+
+  RULE : When you declare (THROW) a CHECKED EXCEPTIONS , whoever calls this method responsible to handle it
+         Throws
+         Try Catch
+
+4-FINALLY
+
+    - Why we need finally ?
+    - If we want to some code to be always executed we need to use finally block
+
+    - Runs no matter what
+
+5-THROW
+    - if you want to throw an exception manually you can use --> throw new ExceptionClass();
+           - Java Exceptions (NullPointer, IndexOutOFBounds etc )
+           - Custom Exceptions
+
+6- CUSTOM EXCEPTIONS
+
+    -     We can create exception by extending parent Exception classes
+

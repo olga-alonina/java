@@ -1,0 +1,64 @@
+Collection framework: consists of multiple interfaces, each interface is implemented by classes with different different way
+
+	Collection (I): Dynamic Sized
+					supports non-primitives ONLY
+                    extended by List, Set, Queue
+
+
+			List (I): has index numbers, accept duplicates ,Insertion Order preserved
+
+				ArrayList (C): Array Based Class, internally uses array
+								retrieving the data is faster ( get() )
+
+				LinkedList (C): each objects are doublly linked
+								adding & removing are faster (add() & remove())
+
+				Vector (C): is synchronized ==> thread-safe
+				        Synchronized:
+				                multiple threads are being executed one thread at time
+                                        advantage: thread-safe
+                                        disadvantage: slower
+
+                Stack (C): is synchronized ==> thread-safe. LIFO (last in first out)
+                        pop():  removes the last inserted object from the stack and returns it
+                        peek(): returns last element without removing it
+                        push(): add element into stack
+
+
+			Set (I): does not have index, does not accept duplicates,Insertion Order not preserved
+
+				HashSet (C): order is random. accepts null key. faster
+
+				LinkedHashSet (C): keeps the insertion order as it is. accepts null key
+
+				TreeSet (C): keeps the sorted(ascending) order. does not accept null key (nullPointerException will be given)
+
+
+
+			Queue (I): does not have index, accept duplicates. FIFO (first in first out)
+
+				PriorityQueue (C): order is random (similar asc order ). does not have index number,does not accept  nulls
+
+				ArrayDequeue (C): keeps the same insertion order. does not have index number,accept nulls
+
+				LinkedList (C): keeps the same insertion order, has index number
+
+
+
+
+Iterable: Root Interface of Collection
+		Classes that are implementing iterable interface gains the ability to use iterator interface
+
+		Iterator (I):
+			1. allows us to get access to each object
+			2. allows us to remove any objects from collection type
+
+
+			methods:
+				hasNext(): checks if there is object. returns boolean
+
+				next():
+						if hasNext() is true ==> can get access to the object
+						if hasNext() is false==> no object can be accessed
+
+				remove(): removes the object

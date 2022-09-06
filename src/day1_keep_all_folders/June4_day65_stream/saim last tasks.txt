@@ -1,0 +1,52 @@
+Stream Tasks:
+    1. Write a program that can remove the duplicated elements of an array of String
+
+    2. Write a program that can remove the duplicated elements of a List of String
+
+    3. Write a program that can count how many "java" and "python" does the array has:
+            ex: array = {"Java", "jAVa", "pythON"}
+
+            output:
+                countJava = 2
+                countPython = 1
+
+    4. Write a program that can count how many negative numbers does the array has
+        ex: arr = {1,2,3,4,-4,5,-5}
+
+        output:
+            2
+
+    5. Write a program that can count how many Positive numbers does the List has
+        ex: List = {1,2,3,4,-4,5,-5}
+
+        output:
+            5
+
+    6. Write a program that can return all the negative numbers of the array as a new array
+        ex:
+            arr = {1,2,3,4,-4,5,-5}
+
+        output:
+            {-4, -5}
+
+    7. Write a program that can return all the positive numbers of List without the dupclaites
+        ex:
+            list = {1,2,3,4,-4,5,-5,1,2,3,4}
+
+        output:
+            {1,2,3,4,5}
+
+
+    8. Write a program that can return the palindrome Strings from a list:
+        Ex:
+            list = {"Java", "level", "Anna", "Wooden Spoon"};
+
+        output:
+            {"level", "Anna"}
+
+    9. Write a program that can return the unique elements of an array as a new array:
+
+        Ex: arr = {1,1,2,3,3,4,5,5,6};
+
+        output:
+            {2,4,6}
