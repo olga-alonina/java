@@ -4,174 +4,7 @@
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="973566ed-b80c-4f1e-9125-0651312ab341" name="Changes" comment="zombie">
-      <change afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/App/Youtube.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Git_Group_Project" beforeDir="false" afterPath="$PROJECT_DIR$/Git_Group_Project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PracticeCoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PracticeCoding.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avengerHours/April11/Contain2OR3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/AH/April11/Contain2OR3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avengerHours/April11/Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/AH/April11/Frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avengerHours/April11/lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/AH/April11/lesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avengerHours/April18/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/AH/April18/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avengerHours/April18/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/AH/April18/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avengerHours/April4/Check_Six.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/AH/April4/Check_Six.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/avengerHours/April4/TimeStamps.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/AH/April4/TimeStamps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b26_Git_Branching2" beforeDir="false" afterPath="$PROJECT_DIR$/b26_Git_Branching2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b26_Git_Branching2/src/April2/Eleven.java" beforeDir="false" afterPath="$PROJECT_DIR$/b26_Git_Branching2/src/April2/Eleven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b26_Git_Branching2/src/April2/resetEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/b26_Git_Branching2/src/April2/resetEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/b26_Git_Project" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/b26_git_book" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/ola.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/.idea/swap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/out/production/swap/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/out/production/swap/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/out/production/swap/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/out/production/ola/ola/swap/out/production/swap/.idea/swap.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/src/MathMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ola/src/password.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_16_day_47_Encapsulation/Access_In_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_16_day_47_Encapsulation/Access_In_Page.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_16_day_47_Encapsulation/Access_Modifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_16_day_47_Encapsulation/Access_Modifier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_16_day_47_Encapsulation/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_16_day_47_Encapsulation/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_16_day_47_Encapsulation/Road.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_16_day_47_Encapsulation/Road.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_16_day_47_Encapsulation/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_16_day_47_Encapsulation/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_16_day_47_Encapsulation/Traffic_Lights.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_16_day_47_Encapsulation/Traffic_Lights.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_16_day_47_Encapsulation/Use_Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_16_day_47_Encapsulation/Use_Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_18_day_48_Encapsulation/With_Import.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_18_day_48_Encapsulation/With_Import.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_18_day_48_Encapsulation/normal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_18_day_48_Encapsulation/normal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_19_day_49_Inheritance/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_19_day_49_Inheritance/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_19_day_49_Inheritance/Building.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_19_day_49_Inheritance/Building.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_19_day_49_Inheritance/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_19_day_49_Inheritance/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_19_day_49_Inheritance/Lion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_19_day_49_Inheritance/Lion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_19_day_49_Inheritance/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_19_day_49_Inheritance/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_19_day_49_Inheritance/SubPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_19_day_49_Inheritance/SubPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_19_day_49_Inheritance/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_19_day_49_Inheritance/Zoo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/book/AudioBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/book/AudioBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/book/Author.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/book/Author.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/book/Book.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/book/Book.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/book/EBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/book/EBook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/book/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/book/Library.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/computer/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/computer/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/computer/Lab.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/computer/Lab.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/computer/Mac.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/computer/Mac.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/computer/Windows.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/computer/Windows.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/employee/Developer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/employee/Developer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/employee/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/employee/Employee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/employee/Job.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/employee/Job.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/April_20_day_50_Inheritance/employee/Tester.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_20_day_50_Inheritance/employee/Tester.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homework_April_19/FlightTicket.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/Goal_Eror.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/Goal_Eror.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/New.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/New.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/SalaryAndBonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/SalaryAndBonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/VarAreEqial.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/VarAreEqial.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/alphabet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/alphabet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/double_dec.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/double_dec.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/nameofday.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/nameofday.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/salary_deduction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/salary_deduction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/tes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/tes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/tes2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/tes2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/times.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/times.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mary/wow.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/Mary/wow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_13_14/CalcFeetAndInchesToCentimeters.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_13_14/CalcFeetAndInchesToCentimeters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_13_14/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_13_14/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_13_14/Overloading_Authorization.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_13_14/Overloading_Authorization.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_13_14/Overloading_Main_Metods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_13_14/Overloading_Main_Metods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_13_14/Sum_Up_To_Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_13_14/Sum_Up_To_Zero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_15_16/Sum_oF_Digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_15_16/Sum_oF_Digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_15_16/combine_Two_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_15_16/combine_Two_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_15_16/frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_15_16/frequency.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_15_16/largest_number_from_arraylist.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_15_16/largest_number_from_arraylist.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_15_16/last_Is_Zero.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_15_16/last_Is_Zero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_15_16/lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_15_16/lesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_15_16/lovely_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_15_16/lovely_numbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_17_18/BankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_17_18/BankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_17_18/ConstractorIntro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_17_18/ConstractorIntro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_17_18/CustomMan.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_17_18/CustomMan.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_17_18/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_17_18/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_17_18/UseBankAccount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_17_18/UseBankAccount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_17_18/cydeo.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_17_18/cydeo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_17_18/lesson.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_17_18/lesson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/AgeAndWeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/AgeAndWeight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Armstrong_number.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Armstrong_number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Array_start_and_End.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Array_start_and_End.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/BMI.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/BMI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/CarpetShop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/CarpetShop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Discount.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Discount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Engine.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Engine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/EtsyToyStore.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/EtsyToyStore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/HelloWorld.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Many_Hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Many_Hi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Replace_to_div_by_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Replace_to_div_by_10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Replacement.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Replacement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Same_FL_and_LL.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Same_FL_and_LL.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Six_to_Seven.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Six_to_Seven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Smal2Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Smal2Task.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Small3Tasks.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Small3Tasks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/SmallTask3part2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/SmallTask3part2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/SmallTask3part3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/SmallTask3part3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/TellMeAboutYourself.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/TellMeAboutYourself.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/Triangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/Triangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/browser.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/browser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/combination_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/combination_Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/count_moving_to_mainFolder.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/count_moving_to_mainFolder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/myVision.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/myVision.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/newOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/newOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/otherMany_hi.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/otherMany_hi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/removeSpaceWithMetods.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/removeSpaceWithMetods.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/right_to_left.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/right_to_left.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/sum_of_digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/sum_of_digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Mehmet/OH_1_12/wow.java" beforeDir="false" afterPath="$PROJECT_DIR$/Avenger_and_Office_Hours/OH/OH_1_12/wow.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/Ahmad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixMarch/Ahmad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/Random_Numbers_sumToZero.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixMarch/Random_Numbers_sumToZero.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/anagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixMarch/anagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/clock_Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixMarch/clock_Counter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/concatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixMarch/concatString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/interviewPrep/converting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixApril/converting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/interviewPrep/counter_letter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixApril/counter_letter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Team_task/swap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Team_task/interviewPrep/mixMarch/swap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/codingBat/warm1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April2_day40/Using_Collection_Class.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April2_day40/Using_Collection_Class.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April9_day42_Custom_Class/all_people.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April9_day42_Custom_Class/all_people.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_10_day_43/Address.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_10_day_43/Address.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_13_day_46_STATIC/CydeoStudent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/April/April_13_day_46_STATIC/CydeoStudent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/March/March19_ArrayMetod_day32/multiArray_ex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/March/March19_ArrayMetod_day32/multiArray_ex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/March/March23_day34/Void___Return.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/March/March23_day34/Void___Return.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/March/day18/Tempruture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/March/day18/Tempruture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/March/day22Loop/ChatBot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/March/day22Loop/ChatBot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/HomeworkFeb20_Replit/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/HomeworkFeb20_Replit/Hotel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkFeb10/Not_IDEA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkFeb10/Not_IDEA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkFeb15/sales_and_bonus.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkFeb15/sales_and_bonus.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkFeb16/Diver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkFeb16/Diver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkMarch21/vote.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkMarch21/vote.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkMarch24/currency_Converter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homeworkMarch24/currency_Converter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_April_17/OrderPizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_April_17/Pizza.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_April_17/Rectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_April_17/Square.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_April_17/UseRectangle.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homework_April_17/UseSquare.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/App/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/App/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/App/Instagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/App/Instagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/App/UseApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/App/UseApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/App/Youtube.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/DiscordUser/Admin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/DiscordUser/Admin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/DiscordUser/DiscordUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/DiscordUser/DiscordUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/DiscordUser/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/DiscordUser/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/homeworl_April_21/DiscordUser/UseDiscordUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day1_keep_all_folders/homework/homework_April_21/DiscordUser/UseDiscordUser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/my_lubrary/Access_Outside_Package.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/my_lubrary/Access_Outside_Package.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stydy/.idea/.gitignore" beforeDir="false" />
-    </list>
+    <list default="true" id="973566ed-b80c-4f1e-9125-0651312ab341" name="Changes" comment="java" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -225,7 +58,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "C:/Users/wifec/IdeaProjects/PracticeCoding/src/day1_keep_all_folders/June4_day65_stream",
+    "last_opened_file_path": "C:/Users/wifec/IdeaProjects/PracticeCoding",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
@@ -534,6 +367,7 @@
       <workItem from="1655677715796" duration="2431000" />
       <workItem from="1655683131717" duration="1304000" />
       <workItem from="1656471085934" duration="9881000" />
+      <workItem from="1662473068923" duration="965000" />
     </task>
     <task id="LOCAL-00001" summary="zombie">
       <created>1650158924893</created>
@@ -563,7 +397,21 @@
       <option name="project" value="LOCAL" />
       <updated>1650231310269</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="java">
+      <created>1662473434151</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1662473434151</updated>
+    </task>
+    <task id="LOCAL-00006" summary="java">
+      <created>1662473808518</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1662473808518</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -582,7 +430,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zombie" />
-    <option name="LAST_COMMIT_MESSAGE" value="zombie" />
+    <MESSAGE value="java" />
+    <option name="LAST_COMMIT_MESSAGE" value="java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
