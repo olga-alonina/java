@@ -10,7 +10,7 @@ public class sales_and_bonus {
         double bonuse = 0;
                 
         if(sales<10_000){
-            System.out.println("You don't get any bonus");
+            System.out.println("You don'title get any bonus");
         }
         if(sales>=10_000&&sales<15_000){
             System.out.println("You get a bonus of 5000");

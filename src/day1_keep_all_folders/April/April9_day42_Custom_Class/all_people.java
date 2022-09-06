@@ -4,7 +4,7 @@ public class all_people {
     public static void main(String[] args) {
         /*not valid:
        System.out.println(name);
-        System.out.println(person.name);*/
+        System.out.println(Person.name);*/
         //creating object
         Person personOne = new Person();
         Person personTwo = new Person();

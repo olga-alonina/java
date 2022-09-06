@@ -15,9 +15,9 @@ public class ChatBot {
                 case "how are you":
                     System.out.println("I'm good");break;
                 case "bye":
-                    System.out.println("no,don't leave");
+                    System.out.println("no,don'title leave");
                 default:
-                    System.out.println("I don't know what you said");
+                    System.out.println("I don'title know what you said");
 
 
             }

@@ -11,7 +11,7 @@ public class CydeoStudent {
 
     static {
         batch_Number = 26;
-        instructors = new String[]{"Nadir", "Mehmet", "Austin", "Ausun", "Saim"};
+        instructors = new String[]{"Nadir", "OH", "Austin", "Ausun", "Saim"};
         school_Name = "Cydeo";
     }
 

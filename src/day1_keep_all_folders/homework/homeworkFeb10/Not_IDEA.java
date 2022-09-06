@@ -35,8 +35,8 @@ public class Not_IDEA {
         //    Y = 16-4=12;
         //_____________________________________________________
         //Evaluate the expressions step by step. NOT in intellij, do it yourself
-        //int t = 100; //T = 100
-        //int p = - ++t * -t-- / t++ + --t;
+        //int title = 100; //T = 100
+        //int p = - ++title * -title-- / title++ + --title;
             //p = - 101* -101/ 100 + 100; 10201/100 = 102.01+100 = 202.01= 202
                //_____________________________________________________
         //Evaluate the expressions step by step. NOT in intellij, do it yourself

@@ -22,7 +22,7 @@ public class Using_Collection_Class {
         System.out.println( "Min " + Collections.min( list ) );
         System.out.println( "Swap" );
         Collections.swap( letters, 0, 3 );
-        System.out.println( "swap letters = " + letters );
+        System.out.println( "swapEx letters = " + letters );
         System.out.println( "Frequency with numbers" );
         System.out.println("Frequency "+ Collections.frequency( list, 15 ) );
         System.out.println("Frequency with words");

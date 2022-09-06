@@ -1,6 +1,6 @@
 package my_lubrary;
 
-import April_16_day_47_Encapsulation.Access_Modifier;
+import day1_keep_all_folders.April.April_16_day_47_Encapsulation.Access_Modifier;
 
 public class Access_Outside_Package {
     public int a;

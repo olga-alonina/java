@@ -14,7 +14,7 @@ public class Diver {
             System.out.println("Still okay");
         }
         if (oxygenLevel>=70&&oxygenLevel<80){
-            System.out.println("Don't go too far");
+            System.out.println("Don'title go too far");
         }
         if (oxygenLevel>=60&&oxygenLevel<70){
             System.out.println("Start to head back");

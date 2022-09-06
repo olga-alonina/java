@@ -6,7 +6,7 @@ public class Address {
     String state;
     String zipcode;
 
-/*public Address(  String inputStreet,String inputCity, String inputState,String inputZipcode){
+/*public Addresss(  String inputStreet,String inputCity, String inputState,String inputZipcode){
 street=inputStreet;
 city=inputCity;
 state=inputState;

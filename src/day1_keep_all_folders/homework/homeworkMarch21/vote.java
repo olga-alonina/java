@@ -2,7 +2,7 @@ package day1_keep_all_folders.homework.homeworkMarch21;
 
 public class vote {
     public static void eligible_to_vote(int age) {
-        // create a method that will accept an age and determine if the person is
+        // create a method that will accept an age and determine if the Person is
         // eligible to vote. Person must be 18 years or older to vote
 
         int result = 2022 - age;

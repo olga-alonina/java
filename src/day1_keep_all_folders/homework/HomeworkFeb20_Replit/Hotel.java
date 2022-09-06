@@ -33,7 +33,7 @@ public class Hotel {
                 price = number_of_days * 5000;
                 break;
             default:
-                System.out.println("Sorry we don 't have any available rooms for that size party");   }
+                System.out.println("Sorry we don 'title have any available rooms for that size party");   }
 
     System.out.println("Your room will be "+room_type+ " for a $ "+price+" . Enjoy your day!");
 }}

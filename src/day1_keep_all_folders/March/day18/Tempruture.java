@@ -11,7 +11,7 @@ public class Tempruture {
         System.out.println(day.contains("itis"));
         System.out.println(day.contains("ay it"));
         System.out.println(day.contains("7"));
-        System.out.println(day.contains("today"));//False, T, not t
+        System.out.println(day.contains("today"));//False, T, not title
         System.out.println(day.contains("Ti7"));//false
 
 

@@ -19,7 +19,7 @@ Use the following information to convert from given dollars to the desired curre
 1 dollar = 14.85 lira
 1 dollar = 1,217.52 won
 1 dollar = 181.45 rupee
-Note: Don't worry about decimal formats, focus on method*/
+Note: Don'title worry about decimal formats, focus on method*/
         double total = 0;
         switch (nameOfMoney) {
             case "euro":

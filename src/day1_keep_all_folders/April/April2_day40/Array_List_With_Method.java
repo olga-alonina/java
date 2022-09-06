@@ -2,7 +2,7 @@ package day1_keep_all_folders.April.April2_day40;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-
+//
 public class Array_List_With_Method {
     public static ArrayList<String> get_Days_Of_The_Week() {
         ArrayList<String> days = new ArrayList<>( Arrays.asList(

@@ -8,8 +8,8 @@ public class multiArray_ex {
         int[] m = {5, 10, 100, 39, 19};
 
         int[][] all = {n, m};
-        //System.out.println(all);//its print symbols, don't do it
-        //System.out.println(Arrays.toString(all));//its print symbols, don't do it
+        //System.out.println(all);//its print symbols, don'title do it
+        //System.out.println(Arrays.toString(all));//its print symbols, don'title do it
         System.out.println(Arrays.deepToString(all));
         System.out.println("First array: " + Arrays.toString(all[0]));
         System.out.println("Second array: " + Arrays.toString(all[1]));
